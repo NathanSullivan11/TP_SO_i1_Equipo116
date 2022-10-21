@@ -2,3 +2,8 @@ Integrantes:
 ALPHA) Nathan Sullivan
 BETA) Mauro Racioppi
 GAMMA) Tomas Hernandez
+
+Respuestas: 
+
+a) Si, siempre y cuando hayan hecho un push.
+b) Si, siempre y cuando se haya hecho un push.
