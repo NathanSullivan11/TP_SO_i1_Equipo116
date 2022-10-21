@@ -9,3 +9,5 @@ a) Si, siempre y cuando hayan hecho un push.
 b) Si, siempre y cuando se haya hecho un push.
 c) Si, siempre y cuando se haya hecho un push.
 d) Nos comunicamos via Discore, WhatsApp y Github.
+e) La mejor manera de comunicarse por Github, es con la solapa Issues, para hacer consultas a los otros integrantes, y la solapa Projects,
+para comunicar el progreso.
